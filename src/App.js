@@ -27,7 +27,11 @@ function App() {
         />
         <Section
           header="Web Development Projects"
-          text={["Resume (you are here!)", "Dexmaster"]}
+          text={["Resume (you are here!)"]}
+          links={[{
+            project: "Dexmaster",
+            url: "https://github.com/Schmiggle649/Dexmaster"
+          }]}
         />
         <Section
           header="Work Experience"

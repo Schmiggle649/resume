@@ -16,6 +16,9 @@ function Section(props) {
       {show && props.text.map((item) => (
         <p>{item}</p>
       ))}
+      {props.links && show && props.links.map((link) => (
+        <a href={link.url}>{link.project}</a>
+      ))}
     </div>
   );
 }
