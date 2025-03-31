@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Schmiggle649/resume.git/static/css/main.5dbf7e88.css",
+    "main.js": "/Schmiggle649/resume.git/static/js/main.730afc19.js",
+    "static/js/453.ed3810f9.chunk.js": "/Schmiggle649/resume.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Schmiggle649/resume.git/index.html",
+    "main.5dbf7e88.css.map": "/Schmiggle649/resume.git/static/css/main.5dbf7e88.css.map",
+    "main.730afc19.js.map": "/Schmiggle649/resume.git/static/js/main.730afc19.js.map",
+    "453.ed3810f9.chunk.js.map": "/Schmiggle649/resume.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbf7e88.css",
+    "static/js/main.730afc19.js"
+  ]
+}
